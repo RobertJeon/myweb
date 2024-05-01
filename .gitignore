@@ -1,0 +1,40 @@
+# Directories #
+/build/
+/bin/
+target/
+
+# OS Files #
+.DS_Store
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+
+# Eclipse #
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+local.properties
+/src/main/resources/rebel.xml
+apikey.js
+passwd.py
+secrets.json
+
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+*.__pycache__
